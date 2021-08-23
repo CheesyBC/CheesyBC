@@ -3,5 +3,3 @@
 
 - https://nebulabc.net
 - https://neb.cx
-- https://cheesybc.com
-- https://raidmc.xyz
